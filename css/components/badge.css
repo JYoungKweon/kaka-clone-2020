@@ -1,0 +1,30 @@
+.badge {
+  background-color: tomato;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  left: 15px;
+  bottom: 15px;
+}
+.fa-cog {
+  position: relative;
+}
+.point {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: tomato;
+  position: absolute;
+  right: -6px;
+  top: -7px;
+}
+
+.new-noti {
+  right: -6px;
+  top: -7px;
+}
